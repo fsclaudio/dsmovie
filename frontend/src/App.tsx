@@ -1,8 +1,8 @@
-import React from 'react';
+import Navibar from "./components/Navbar";
 
 function App() {
   return (
-    <h1>Pagina Bem vindos</h1>
+    <Navibar />
   );
 }
 
